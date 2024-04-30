@@ -7,3 +7,4 @@ if [[ "$MACHARCH" == "$MACM1" ]]; then
 else
    zookeeper-server-start /usr/local/etc/kafka/zookeeper.properties
 fi
+
